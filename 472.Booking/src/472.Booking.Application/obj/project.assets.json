@@ -2850,11 +2850,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Aplicaciones\\CUN4\\CursoArqLimpias\\472.Booking\\src\\472.Booking.Application\\472.Booking.Application.csproj",
+      "projectUniqueName": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\472.Booking.Application.csproj",
       "projectName": "472.Booking.Application",
-      "projectPath": "D:\\Aplicaciones\\CUN4\\CursoArqLimpias\\472.Booking\\src\\472.Booking.Application\\472.Booking.Application.csproj",
+      "projectPath": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\472.Booking.Application.csproj",
       "packagesPath": "C:\\Users\\ricardo.pena\\.nuget\\packages\\",
-      "outputPath": "D:\\Aplicaciones\\CUN4\\CursoArqLimpias\\472.Booking\\src\\472.Booking.Application\\obj\\",
+      "outputPath": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2876,8 +2876,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Aplicaciones\\CUN4\\CursoArqLimpias\\472.Booking\\src\\472.Booking.Domain\\472.Booking.Domain.csproj": {
-              "projectPath": "D:\\Aplicaciones\\CUN4\\CursoArqLimpias\\472.Booking\\src\\472.Booking.Domain\\472.Booking.Domain.csproj"
+            "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Domain\\472.Booking.Domain.csproj": {
+              "projectPath": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Domain\\472.Booking.Domain.csproj"
             }
           }
         }

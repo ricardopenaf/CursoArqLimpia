@@ -10,3 +10,16 @@ D:\Aplicaciones\CUN4\472.Booking\src\472.Booking.External\obj\Debug\net8.0\472.B
 D:\Aplicaciones\CUN4\472.Booking\src\472.Booking.External\obj\Debug\net8.0\refint\472.Booking.External.dll
 D:\Aplicaciones\CUN4\472.Booking\src\472.Booking.External\obj\Debug\net8.0\472.Booking.External.pdb
 D:\Aplicaciones\CUN4\472.Booking\src\472.Booking.External\obj\Debug\net8.0\ref\472.Booking.External.dll
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.External\bin\Debug\net8.0\472.Booking.External.deps.json
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.External\bin\Debug\net8.0\472.Booking.External.dll
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.External\bin\Debug\net8.0\472.Booking.External.pdb
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.External\obj\Debug\net8.0\472.Booking.External.csproj.AssemblyReference.cache
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.External\obj\Debug\net8.0\472.Booking.External.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.External\obj\Debug\net8.0\472.Booking.External.AssemblyInfoInputs.cache
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.External\obj\Debug\net8.0\472.Booking.External.AssemblyInfo.cs
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.External\obj\Debug\net8.0\472.Booking.External.csproj.CoreCompileInputs.cache
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.External\obj\Debug\net8.0\472.Booking.External.sourcelink.json
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.External\obj\Debug\net8.0\472.Booking.External.dll
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.External\obj\Debug\net8.0\refint\472.Booking.External.dll
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.External\obj\Debug\net8.0\472.Booking.External.pdb
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.External\obj\Debug\net8.0\ref\472.Booking.External.dll

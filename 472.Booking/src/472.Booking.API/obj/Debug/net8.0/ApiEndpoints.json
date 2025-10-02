@@ -9,7 +9,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Boolean",
+        "Type": "_472.Booking.Application.DataBase.Customer.Queries.GetCustomerByDocumentNumber.GetCustomerByDocumentNumberModel",
         "MediaTypes": [
           "application/json"
         ],

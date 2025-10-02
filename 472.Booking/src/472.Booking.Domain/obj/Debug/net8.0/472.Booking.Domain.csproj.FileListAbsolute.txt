@@ -9,3 +9,15 @@ D:\Aplicaciones\CUN4\472.Booking\src\472.Booking.Domain\obj\Debug\net8.0\472.Boo
 D:\Aplicaciones\CUN4\472.Booking\src\472.Booking.Domain\obj\Debug\net8.0\refint\472.Booking.Domain.dll
 D:\Aplicaciones\CUN4\472.Booking\src\472.Booking.Domain\obj\Debug\net8.0\472.Booking.Domain.pdb
 D:\Aplicaciones\CUN4\472.Booking\src\472.Booking.Domain\obj\Debug\net8.0\ref\472.Booking.Domain.dll
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.Domain\bin\Debug\net8.0\472.Booking.Domain.deps.json
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.Domain\bin\Debug\net8.0\472.Booking.Domain.dll
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.Domain\bin\Debug\net8.0\472.Booking.Domain.pdb
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.Domain\obj\Debug\net8.0\472.Booking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.Domain\obj\Debug\net8.0\472.Booking.Domain.AssemblyInfoInputs.cache
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.Domain\obj\Debug\net8.0\472.Booking.Domain.AssemblyInfo.cs
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.Domain\obj\Debug\net8.0\472.Booking.Domain.csproj.CoreCompileInputs.cache
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.Domain\obj\Debug\net8.0\472.Booking.Domain.sourcelink.json
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.Domain\obj\Debug\net8.0\472.Booking.Domain.dll
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.Domain\obj\Debug\net8.0\refint\472.Booking.Domain.dll
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.Domain\obj\Debug\net8.0\472.Booking.Domain.pdb
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.Domain\obj\Debug\net8.0\ref\472.Booking.Domain.dll
