@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+	<InvariantGlobalization>false</InvariantGlobalization>
+    <RootNamespace>_472.Booking.API</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.9">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\472.Booking.Application\472.Booking.Application.csproj" />
+    <ProjectReference Include="..\472.Booking.Common\472.Booking.Common.csproj" />
+    <ProjectReference Include="..\472.Booking.External\472.Booking.External.csproj" />
+    <ProjectReference Include="..\472.Booking.Persistence\472.Booking.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>

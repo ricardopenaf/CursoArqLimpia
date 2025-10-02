@@ -1,0 +1,15 @@
+D:\Aplicaciones\CUN4\472.Booking\src\472.Booking.Application\bin\Debug\net8.0\472.Booking.Application.deps.json
+D:\Aplicaciones\CUN4\472.Booking\src\472.Booking.Application\bin\Debug\net8.0\472.Booking.Application.dll
+D:\Aplicaciones\CUN4\472.Booking\src\472.Booking.Application\bin\Debug\net8.0\472.Booking.Application.pdb
+D:\Aplicaciones\CUN4\472.Booking\src\472.Booking.Application\bin\Debug\net8.0\472.Booking.Domain.dll
+D:\Aplicaciones\CUN4\472.Booking\src\472.Booking.Application\bin\Debug\net8.0\472.Booking.Domain.pdb
+D:\Aplicaciones\CUN4\472.Booking\src\472.Booking.Application\obj\Debug\net8.0\472.Booking.Application.csproj.AssemblyReference.cache
+D:\Aplicaciones\CUN4\472.Booking\src\472.Booking.Application\obj\Debug\net8.0\472.Booking.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aplicaciones\CUN4\472.Booking\src\472.Booking.Application\obj\Debug\net8.0\472.Booking.Application.AssemblyInfoInputs.cache
+D:\Aplicaciones\CUN4\472.Booking\src\472.Booking.Application\obj\Debug\net8.0\472.Booking.Application.AssemblyInfo.cs
+D:\Aplicaciones\CUN4\472.Booking\src\472.Booking.Application\obj\Debug\net8.0\472.Booking.Application.csproj.CoreCompileInputs.cache
+D:\Aplicaciones\CUN4\472.Booking\src\472.Booking.Application\obj\Debug\net8.0\472.Book.88281F10.Up2Date
+D:\Aplicaciones\CUN4\472.Booking\src\472.Booking.Application\obj\Debug\net8.0\472.Booking.Application.dll
+D:\Aplicaciones\CUN4\472.Booking\src\472.Booking.Application\obj\Debug\net8.0\refint\472.Booking.Application.dll
+D:\Aplicaciones\CUN4\472.Booking\src\472.Booking.Application\obj\Debug\net8.0\472.Booking.Application.pdb
+D:\Aplicaciones\CUN4\472.Booking\src\472.Booking.Application\obj\Debug\net8.0\ref\472.Booking.Application.dll

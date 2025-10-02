@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nQDzFzCDqkM=",
+  "success": true,
+  "projectFilePath": "D:\\Aplicaciones\\CUN4\\CursoArqLimpias\\472.Booking\\src\\472.Booking.Common\\472.Booking.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ricardo.pena\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
