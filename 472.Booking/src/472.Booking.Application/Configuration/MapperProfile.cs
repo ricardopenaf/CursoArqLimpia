@@ -1,4 +1,5 @@
-﻿using _472.Booking.Application.DataBase.Customer.Commands.CreateCustomer;
+﻿using _472.Booking.Application.DataBase.Bookings.Commands.CreateBooking;
+using _472.Booking.Application.DataBase.Customer.Commands.CreateCustomer;
 using _472.Booking.Application.DataBase.Customer.Commands.UpdateCustomer;
 using _472.Booking.Application.DataBase.Customer.Queries.GetAllCustomer;
 using _472.Booking.Application.DataBase.Customer.Queries.GetCustoerGetId;
@@ -8,6 +9,7 @@ using _472.Booking.Application.DataBase.User.Commands.UpdateUser;
 using _472.Booking.Application.DataBase.User.Queries.GetAllUser;
 using _472.Booking.Application.DataBase.User.Queries.GetUserById;
 using _472.Booking.Application.DataBase.User.Queries.GetUserByUserNameAndPassword;
+using _472.Booking.Domain.Enetities.Booking;
 using _472.Booking.Domain.Enetities.Customer;
 using _472.Booking.Domain.Enetities.User;
 using AutoMapper;
@@ -32,6 +34,10 @@ namespace _472.Booking.Application.Configuration
             CreateMap<CustomerEntity, GetAllCustomerModel>().ReverseMap();
             CreateMap<CustomerEntity, GetCustomerByIdModel>().ReverseMap();
             CreateMap<CustomerEntity, GetCustomerByDocumentNumberModel>().ReverseMap();
+            #endregion
+
+            #region Booking
+            CreateMap<BookingEntity, CreateBookingModel>().ReverseMap();
             #endregion
         }
     }

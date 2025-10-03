@@ -1,4 +1,8 @@
 ﻿using _472.Booking.Application.Configuration;
+using _472.Booking.Application.DataBase.Bookings.Commands.CreateBooking;
+using _472.Booking.Application.DataBase.Bookings.Queries.GetAllBookings;
+using _472.Booking.Application.DataBase.Bookings.Queries.GetBookingByType;
+using _472.Booking.Application.DataBase.Bookings.Queries.GetBookingDocumentNumber;
 using _472.Booking.Application.DataBase.Customer.Commands.CreateCustomer;
 using _472.Booking.Application.DataBase.Customer.Commands.DeleteCustomer;
 using _472.Booking.Application.DataBase.Customer.Commands.UpdateCustomer;
@@ -44,11 +48,14 @@ namespace _472.Booking.Application
                 services.AddTransient<IGetAllCustomerQuery, GetAllCustomerQuery>();
                 services.AddTransient<IGetCustomerByIdQuery, GetCustomerByIdQuery>();
                 services.AddTransient<IGetCustomerByDocumentNumberQuery, GetCustomerByDocumentNumberQuery>();
-
-
             #endregion
 
-
+            #region Booking
+                services.AddTransient<ICreateBookingCommand, CreateBookingCommand>();
+                services.AddTransient<IGetAllBookingsQuery, GetAllBookingsQuery>();
+                services.AddTransient<IGetBookingDocumentNumberQuery, GetBookingDocumentNumberQuery>();
+                services.AddTransient<IGetBookingByTypeQuery, GetBookingByTypeQuery>();
+            #endregion
             return services;
         }
     }

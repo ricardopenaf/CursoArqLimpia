@@ -353,3 +353,7 @@ D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.API\obj\Debug\ne
 D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.API\obj\Debug\net8.0\472.Booking.API.pdb
 D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.API\obj\Debug\net8.0\472.Booking.API.genruntimeconfig.cache
 D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.API\obj\Debug\net8.0\ref\472.Booking.API.dll
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.API\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\Aplicaciones\CUN4\CursoArqLimpia\472.Booking\src\472.Booking.API\obj\Debug\net8.0\472.Booking.API.MvcApplicationPartsAssemblyInfo.cs

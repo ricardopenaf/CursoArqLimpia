@@ -1,20 +1,34 @@
 [
   {
-    "ContainingType": "Program\u002B\u003C\u003Ec",
-    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_0",
-    "RelativePath": "testService",
+    "ContainingType": "_472.Booking.API.Controllers.UserController",
+    "Method": "Create",
+    "RelativePath": "api/v1/user/create",
     "HttpMethod": "POST",
-    "IsController": false,
+    "IsController": true,
     "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
+    "Parameters": [
       {
-        "Type": "_472.Booking.Application.DataBase.Customer.Queries.GetCustomerByDocumentNumber.GetCustomerByDocumentNumberModel",
-        "MediaTypes": [
-          "application/json"
-        ],
-        "StatusCode": 200
+        "Name": "model",
+        "Type": "_472.Booking.Application.DataBase.User.Commands.CreateUser.CreateUserModel",
+        "IsRequired": true
       }
-    ]
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "_472.Booking.API.Controllers.UserController",
+    "Method": "Update",
+    "RelativePath": "api/v1/user/update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "_472.Booking.Application.DataBase.User.Commands.UpdateUser.UpdateUserModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

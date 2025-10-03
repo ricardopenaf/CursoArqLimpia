@@ -1,18 +1,5 @@
 ﻿using _472.Booking.API;
 using _472.Booking.Application;
-using _472.Booking.Application.DataBase.Customer.Commands.CreateCustomer;
-using _472.Booking.Application.DataBase.Customer.Commands.DeleteCustomer;
-using _472.Booking.Application.DataBase.Customer.Commands.UpdateCustomer;
-using _472.Booking.Application.DataBase.Customer.Queries.GetAllCustomer;
-using _472.Booking.Application.DataBase.Customer.Queries.GetCustoerGetId;
-using _472.Booking.Application.DataBase.Customer.Queries.GetCustomerByDocumentNumber;
-using _472.Booking.Application.DataBase.User.Commands.CreateUser;
-using _472.Booking.Application.DataBase.User.Commands.DeleteUser;
-using _472.Booking.Application.DataBase.User.Commands.UpdateUser;
-using _472.Booking.Application.DataBase.User.Commands.UpdateUserPassword;
-using _472.Booking.Application.DataBase.User.Queries.GetAllUser;
-using _472.Booking.Application.DataBase.User.Queries.GetUserById;
-using _472.Booking.Application.DataBase.User.Queries.GetUserByUserNameAndPassword;
 using _472.Booking.Common;
 using _472.Booking.External;
 using _472.Booking.Persistence;
@@ -25,14 +12,23 @@ builder.Services
     .AddExternal(builder.Configuration)
     .AddPersistence(builder.Configuration);
 
+builder.Services.AddControllers();
 var app = builder.Build();
 
-app.MapPost("/testService", async (IGetCustomerByDocumentNumberQuery service) =>
-{
-    return await service.Execute("12345");
+//app.MapPost("/testService", async (IGetBookingByTypeQuery service) =>
+//{
+//    //var model = new CreateBookingModel
+//    //{
+//    //    RegisterDate = DateTime.Now,
+//    //    Code = Guid.NewGuid().ToString(),
+//    //    Type = BookingType.Documentation.ToString(),
+//    //    UserId = 3,
+//    //    CustomerId = 3
+//    //};
+//    return await service.Execute("Documentation");
 
 
-});
+//});
 
 // Configure the HTTP request pipeline.
 
@@ -56,7 +52,7 @@ app.MapPost("/testService", async (IGetCustomerByDocumentNumberQuery service) =>
 //    return Results.Ok(result);
 //});
 
-
+app.MapControllers();
 app.Run();
 
 

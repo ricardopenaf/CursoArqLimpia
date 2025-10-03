@@ -3,100 +3,52 @@
   "WorkspaceRootPath": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.application\\database\\bookings\\commands\\createbooking\\icreatebookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|solutionrelative:src\\472.booking.application\\database\\bookings\\commands\\createbooking\\icreatebookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EE4837A-55FC-4972-8D93-C0A886AAA688}|src\\472.Booking.API\\472.Booking.API.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE4837A-55FC-4972-8D93-C0A886AAA688}|src\\472.Booking.API\\472.Booking.API.csproj|solutionrelative:src\\472.booking.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.application\\database\\bookings\\commands\\createbooking\\createbookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|solutionrelative:src\\472.booking.application\\database\\bookings\\commands\\createbooking\\createbookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.application\\exceptions\\exceptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|solutionrelative:src\\472.booking.application\\exceptions\\exceptionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.application\\database\\bookings\\commands\\createbooking\\createbookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|solutionrelative:src\\472.booking.application\\database\\bookings\\commands\\createbooking\\createbookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EE4837A-55FC-4972-8D93-C0A886AAA688}|src\\472.Booking.API\\472.Booking.API.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.api\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE4837A-55FC-4972-8D93-C0A886AAA688}|src\\472.Booking.API\\472.Booking.API.csproj|solutionrelative:src\\472.booking.api\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B082CC-1BA6-4804-9600-A2F70631C3B5}|src\\472.Booking.Domain\\472.Booking.Domain.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.domain\\models\\baseresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B082CC-1BA6-4804-9600-A2F70631C3B5}|src\\472.Booking.Domain\\472.Booking.Domain.csproj|solutionrelative:src\\472.booking.domain\\models\\baseresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.application\\features\\responseapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|solutionrelative:src\\472.booking.application\\features\\responseapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EE4837A-55FC-4972-8D93-C0A886AAA688}|src\\472.Booking.API\\472.Booking.API.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EE4837A-55FC-4972-8D93-C0A886AAA688}|src\\472.Booking.API\\472.Booking.API.csproj|solutionrelative:src\\472.booking.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.application\\database\\customer\\queries\\getcustomerbydocumentnumber\\getcustomerbydocumentnumberquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|solutionrelative:src\\472.booking.application\\database\\customer\\queries\\getcustomerbydocumentnumber\\getcustomerbydocumentnumberquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EE4837A-55FC-4972-8D93-C0A886AAA688}|src\\472.Booking.API\\472.Booking.API.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE4837A-55FC-4972-8D93-C0A886AAA688}|src\\472.Booking.API\\472.Booking.API.csproj|solutionrelative:src\\472.booking.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.application\\database\\customer\\queries\\getcustomerbydocumentnumber\\igetcustomerbydocumentnumberquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|solutionrelative:src\\472.booking.application\\database\\customer\\queries\\getcustomerbydocumentnumber\\igetcustomerbydocumentnumberquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.application\\database\\bookings\\queries\\getbookingbytype\\igetbookingbytypequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|solutionrelative:src\\472.booking.application\\database\\bookings\\queries\\getbookingbytype\\igetbookingbytypequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.application\\database\\customer\\queries\\getcustoergetid\\getcustomerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|solutionrelative:src\\472.booking.application\\database\\customer\\queries\\getcustoergetid\\getcustomerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.application\\database\\bookings\\queries\\getbookingdocumentnumber\\igetbookingdocumentnumberquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|solutionrelative:src\\472.booking.application\\database\\bookings\\queries\\getbookingdocumentnumber\\igetbookingdocumentnumberquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.application\\database\\customer\\queries\\getcustoergetid\\getcustomerbyidmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|solutionrelative:src\\472.booking.application\\database\\customer\\queries\\getcustoergetid\\getcustomerbyidmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.application\\database\\bookings\\queries\\getallbookings\\igetallbookingsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|solutionrelative:src\\472.booking.application\\database\\bookings\\queries\\getallbookings\\igetallbookingsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.application\\database\\customer\\queries\\getcustoergetid\\igetcustomerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|solutionrelative:src\\472.booking.application\\database\\customer\\queries\\getcustoergetid\\igetcustomerbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.application\\database\\bookings\\commands\\createbooking\\createbookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|solutionrelative:src\\472.booking.application\\database\\bookings\\commands\\createbooking\\createbookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.application\\database\\customer\\queries\\getallcustomer\\igetallcustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|solutionrelative:src\\472.booking.application\\database\\customer\\queries\\getallcustomer\\igetallcustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.application\\depencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|solutionrelative:src\\472.booking.application\\depencyinjectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.application\\configuration\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|solutionrelative:src\\472.booking.application\\configuration\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.application\\database\\customer\\queries\\getcustomerbydocumentnumber\\getcustomerbydocumentnumbermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|solutionrelative:src\\472.booking.application\\database\\customer\\queries\\getcustomerbydocumentnumber\\getcustomerbydocumentnumbermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5B082CC-1BA6-4804-9600-A2F70631C3B5}|src\\472.Booking.Domain\\472.Booking.Domain.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.domain\\enetities\\customer\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5B082CC-1BA6-4804-9600-A2F70631C3B5}|src\\472.Booking.Domain\\472.Booking.Domain.csproj|solutionrelative:src\\472.booking.domain\\enetities\\customer\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.application\\database\\customer\\queries\\getallcustomer\\getallcustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|solutionrelative:src\\472.booking.application\\database\\customer\\queries\\getallcustomer\\getallcustomerquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.application\\database\\customer\\queries\\getallcustomer\\getallcustomermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|solutionrelative:src\\472.booking.application\\database\\customer\\queries\\getallcustomer\\getallcustomermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.application\\database\\customer\\commands\\deletecustomer\\ideletecustomercommad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|solutionrelative:src\\472.booking.application\\database\\customer\\commands\\deletecustomer\\ideletecustomercommad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.application\\database\\customer\\commands\\updatecustomer\\iupdatecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|solutionrelative:src\\472.booking.application\\database\\customer\\commands\\updatecustomer\\iupdatecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.application\\database\\customer\\commands\\createcustomer\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|solutionrelative:src\\472.booking.application\\database\\customer\\commands\\createcustomer\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.application\\database\\customer\\commands\\updatecustomer\\updatecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|solutionrelative:src\\472.booking.application\\database\\customer\\commands\\updatecustomer\\updatecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.application\\database\\customer\\commands\\deletecustomer\\deletecustomercommad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|solutionrelative:src\\472.booking.application\\database\\customer\\commands\\deletecustomer\\deletecustomercommad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.application\\database\\customer\\commands\\createcustomer\\icreatecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|solutionrelative:src\\472.booking.application\\database\\customer\\commands\\createcustomer\\icreatecustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.application\\database\\customer\\commands\\createcustomer\\createcustomermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|solutionrelative:src\\472.booking.application\\database\\customer\\commands\\createcustomer\\createcustomermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.application\\database\\customer\\commands\\updatecustomer\\updatecustomermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A63B6D-2389-4FA4-B4F3-B364D0018162}|src\\472.Booking.Application\\472.Booking.Application.csproj|solutionrelative:src\\472.booking.application\\database\\customer\\commands\\updatecustomer\\updatecustomermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A5B082CC-1BA6-4804-9600-A2F70631C3B5}|src\\472.Booking.Domain\\472.Booking.Domain.csproj|d:\\aplicaciones\\cun4\\cursoarqlimpia\\472.booking\\src\\472.booking.domain\\enums\\bookingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B082CC-1BA6-4804-9600-A2F70631C3B5}|src\\472.Booking.Domain\\472.Booking.Domain.csproj|solutionrelative:src\\472.booking.domain\\enums\\bookingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,314 +66,158 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ICreateBookingCommand.cs",
-              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Bookings\\Commands\\CreateBooking\\ICreateBookingCommand.cs",
-              "RelativeDocumentMoniker": "src\\472.Booking.Application\\DataBase\\Bookings\\Commands\\CreateBooking\\ICreateBookingCommand.cs",
-              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Bookings\\Commands\\CreateBooking\\ICreateBookingCommand.cs",
-              "RelativeToolTip": "src\\472.Booking.Application\\DataBase\\Bookings\\Commands\\CreateBooking\\ICreateBookingCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T19:57:22.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CreateBookingCommand.cs",
-              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Bookings\\Commands\\CreateBooking\\CreateBookingCommand.cs",
-              "RelativeDocumentMoniker": "src\\472.Booking.Application\\DataBase\\Bookings\\Commands\\CreateBooking\\CreateBookingCommand.cs",
-              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Bookings\\Commands\\CreateBooking\\CreateBookingCommand.cs",
-              "RelativeToolTip": "src\\472.Booking.Application\\DataBase\\Bookings\\Commands\\CreateBooking\\CreateBookingCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ExceptionManager.cs",
+              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\Exceptions\\ExceptionManager.cs",
+              "RelativeDocumentMoniker": "src\\472.Booking.Application\\Exceptions\\ExceptionManager.cs",
+              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\Exceptions\\ExceptionManager.cs",
+              "RelativeToolTip": "src\\472.Booking.Application\\Exceptions\\ExceptionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T19:57:09.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateBookingModel.cs",
-              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Bookings\\Commands\\CreateBooking\\CreateBookingModel.cs",
-              "RelativeDocumentMoniker": "src\\472.Booking.Application\\DataBase\\Bookings\\Commands\\CreateBooking\\CreateBookingModel.cs",
-              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Bookings\\Commands\\CreateBooking\\CreateBookingModel.cs",
-              "RelativeToolTip": "src\\472.Booking.Application\\DataBase\\Bookings\\Commands\\CreateBooking\\CreateBookingModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T19:56:56.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IGetCustomerByDocumentNumberQuery.cs",
-              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetCustomerByDocumentNumber\\IGetCustomerByDocumentNumberQuery.cs",
-              "RelativeDocumentMoniker": "src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetCustomerByDocumentNumber\\IGetCustomerByDocumentNumberQuery.cs",
-              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetCustomerByDocumentNumber\\IGetCustomerByDocumentNumberQuery.cs",
-              "RelativeToolTip": "src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetCustomerByDocumentNumber\\IGetCustomerByDocumentNumberQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T19:41:49.346Z",
+              "WhenOpened": "2025-10-03T20:27:17.636Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "GetCustomerByDocumentNumberQuery.cs",
-              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetCustomerByDocumentNumber\\GetCustomerByDocumentNumberQuery.cs",
-              "RelativeDocumentMoniker": "src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetCustomerByDocumentNumber\\GetCustomerByDocumentNumberQuery.cs",
-              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetCustomerByDocumentNumber\\GetCustomerByDocumentNumberQuery.cs",
-              "RelativeToolTip": "src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetCustomerByDocumentNumber\\GetCustomerByDocumentNumberQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Title": "ResponseApiService.cs",
+              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\Features\\ResponseApiService.cs",
+              "RelativeDocumentMoniker": "src\\472.Booking.Application\\Features\\ResponseApiService.cs",
+              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\Features\\ResponseApiService.cs",
+              "RelativeToolTip": "src\\472.Booking.Application\\Features\\ResponseApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T19:41:33.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GetCustomerByDocumentNumberModel.cs",
-              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetCustomerByDocumentNumber\\GetCustomerByDocumentNumberModel.cs",
-              "RelativeDocumentMoniker": "src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetCustomerByDocumentNumber\\GetCustomerByDocumentNumberModel.cs",
-              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetCustomerByDocumentNumber\\GetCustomerByDocumentNumberModel.cs",
-              "RelativeToolTip": "src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetCustomerByDocumentNumber\\GetCustomerByDocumentNumberModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T19:41:24.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IGetCustomerByIdQuery.cs",
-              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetCustoerGetId\\IGetCustomerByIdQuery.cs",
-              "RelativeDocumentMoniker": "src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetCustoerGetId\\IGetCustomerByIdQuery.cs",
-              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetCustoerGetId\\IGetCustomerByIdQuery.cs",
-              "RelativeToolTip": "src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetCustoerGetId\\IGetCustomerByIdQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T19:36:21.262Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GetCustomerByIdQuery.cs",
-              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetCustoerGetId\\GetCustomerByIdQuery.cs",
-              "RelativeDocumentMoniker": "src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetCustoerGetId\\GetCustomerByIdQuery.cs",
-              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetCustoerGetId\\GetCustomerByIdQuery.cs",
-              "RelativeToolTip": "src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetCustoerGetId\\GetCustomerByIdQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T19:36:04.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GetCustomerByIdModel.cs",
-              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetCustoerGetId\\GetCustomerByIdModel.cs",
-              "RelativeDocumentMoniker": "src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetCustoerGetId\\GetCustomerByIdModel.cs",
-              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetCustoerGetId\\GetCustomerByIdModel.cs",
-              "RelativeToolTip": "src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetCustoerGetId\\GetCustomerByIdModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T19:35:54.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CustomerEntity.cs",
-              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Domain\\Enetities\\Customer\\CustomerEntity.cs",
-              "RelativeDocumentMoniker": "src\\472.Booking.Domain\\Enetities\\Customer\\CustomerEntity.cs",
-              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Domain\\Enetities\\Customer\\CustomerEntity.cs",
-              "RelativeToolTip": "src\\472.Booking.Domain\\Enetities\\Customer\\CustomerEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T18:51:50.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IGetAllCustomerQuery.cs",
-              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetAllCustomer\\IGetAllCustomerQuery.cs",
-              "RelativeDocumentMoniker": "src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetAllCustomer\\IGetAllCustomerQuery.cs",
-              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetAllCustomer\\IGetAllCustomerQuery.cs",
-              "RelativeToolTip": "src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetAllCustomer\\IGetAllCustomerQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T18:51:43.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "GetAllCustomerQuery.cs",
-              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetAllCustomer\\GetAllCustomerQuery.cs",
-              "RelativeDocumentMoniker": "src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetAllCustomer\\GetAllCustomerQuery.cs",
-              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetAllCustomer\\GetAllCustomerQuery.cs",
-              "RelativeToolTip": "src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetAllCustomer\\GetAllCustomerQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T18:51:24.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "GetAllCustomerModel.cs",
-              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetAllCustomer\\GetAllCustomerModel.cs",
-              "RelativeDocumentMoniker": "src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetAllCustomer\\GetAllCustomerModel.cs",
-              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetAllCustomer\\GetAllCustomerModel.cs",
-              "RelativeToolTip": "src\\472.Booking.Application\\DataBase\\Customer\\Queries\\GetAllCustomer\\GetAllCustomerModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T18:51:12.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "UpdateCustomerModel.cs",
-              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Commands\\UpdateCustomer\\UpdateCustomerModel.cs",
-              "RelativeDocumentMoniker": "src\\472.Booking.Application\\DataBase\\Customer\\Commands\\UpdateCustomer\\UpdateCustomerModel.cs",
-              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Commands\\UpdateCustomer\\UpdateCustomerModel.cs",
-              "RelativeToolTip": "src\\472.Booking.Application\\DataBase\\Customer\\Commands\\UpdateCustomer\\UpdateCustomerModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T18:37:04.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MapperProfile.cs",
-              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\Configuration\\MapperProfile.cs",
-              "RelativeDocumentMoniker": "src\\472.Booking.Application\\Configuration\\MapperProfile.cs",
-              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\Configuration\\MapperProfile.cs",
-              "RelativeToolTip": "src\\472.Booking.Application\\Configuration\\MapperProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T18:36:05.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CreateCustomerModel.cs",
-              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Commands\\CreateCustomer\\CreateCustomerModel.cs",
-              "RelativeDocumentMoniker": "src\\472.Booking.Application\\DataBase\\Customer\\Commands\\CreateCustomer\\CreateCustomerModel.cs",
-              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Commands\\CreateCustomer\\CreateCustomerModel.cs",
-              "RelativeToolTip": "src\\472.Booking.Application\\DataBase\\Customer\\Commands\\CreateCustomer\\CreateCustomerModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T18:35:50.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CreateCustomerCommand.cs",
-              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Commands\\CreateCustomer\\CreateCustomerCommand.cs",
-              "RelativeDocumentMoniker": "src\\472.Booking.Application\\DataBase\\Customer\\Commands\\CreateCustomer\\CreateCustomerCommand.cs",
-              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Commands\\CreateCustomer\\CreateCustomerCommand.cs",
-              "RelativeToolTip": "src\\472.Booking.Application\\DataBase\\Customer\\Commands\\CreateCustomer\\CreateCustomerCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T18:34:58.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ICreateCustomerCommand.cs",
-              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Commands\\CreateCustomer\\ICreateCustomerCommand.cs",
-              "RelativeDocumentMoniker": "src\\472.Booking.Application\\DataBase\\Customer\\Commands\\CreateCustomer\\ICreateCustomerCommand.cs",
-              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Commands\\CreateCustomer\\ICreateCustomerCommand.cs",
-              "RelativeToolTip": "src\\472.Booking.Application\\DataBase\\Customer\\Commands\\CreateCustomer\\ICreateCustomerCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T18:31:59.33Z",
+              "WhenOpened": "2025-10-03T19:39:34.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.API\\Program.cs",
-              "RelativeDocumentMoniker": "src\\472.Booking.API\\Program.cs",
-              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.API\\Program.cs",
-              "RelativeToolTip": "src\\472.Booking.API\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
+              "Title": "BaseResponseModel.cs",
+              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Domain\\Models\\BaseResponseModel.cs",
+              "RelativeDocumentMoniker": "src\\472.Booking.Domain\\Models\\BaseResponseModel.cs",
+              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Domain\\Models\\BaseResponseModel.cs",
+              "RelativeToolTip": "src\\472.Booking.Domain\\Models\\BaseResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T18:31:30.47Z",
+              "WhenOpened": "2025-10-03T19:37:43.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IDeleteCustomerCommad.cs",
-              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Commands\\DeleteCustomer\\IDeleteCustomerCommad.cs",
-              "RelativeDocumentMoniker": "src\\472.Booking.Application\\DataBase\\Customer\\Commands\\DeleteCustomer\\IDeleteCustomerCommad.cs",
-              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Commands\\DeleteCustomer\\IDeleteCustomerCommad.cs",
-              "RelativeToolTip": "src\\472.Booking.Application\\DataBase\\Customer\\Commands\\DeleteCustomer\\IDeleteCustomerCommad.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.API\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "src\\472.Booking.API\\Controllers\\BookingController.cs",
+              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.API\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "src\\472.Booking.API\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T18:26:15.999Z",
+              "WhenOpened": "2025-10-03T19:32:24.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "DeleteCustomerCommad.cs",
-              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Commands\\DeleteCustomer\\DeleteCustomerCommad.cs",
-              "RelativeDocumentMoniker": "src\\472.Booking.Application\\DataBase\\Customer\\Commands\\DeleteCustomer\\DeleteCustomerCommad.cs",
-              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Commands\\DeleteCustomer\\DeleteCustomerCommad.cs",
-              "RelativeToolTip": "src\\472.Booking.Application\\DataBase\\Customer\\Commands\\DeleteCustomer\\DeleteCustomerCommad.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.API\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "src\\472.Booking.API\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.API\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "src\\472.Booking.API\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T18:25:21.183Z",
+              "WhenOpened": "2025-10-03T19:31:32.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UpdateCustomerCommand.cs",
-              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Commands\\UpdateCustomer\\UpdateCustomerCommand.cs",
-              "RelativeDocumentMoniker": "src\\472.Booking.Application\\DataBase\\Customer\\Commands\\UpdateCustomer\\UpdateCustomerCommand.cs",
-              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Commands\\UpdateCustomer\\UpdateCustomerCommand.cs",
-              "RelativeToolTip": "src\\472.Booking.Application\\DataBase\\Customer\\Commands\\UpdateCustomer\\UpdateCustomerCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "src\\472.Booking.API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "src\\472.Booking.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T18:24:42.825Z",
+              "WhenOpened": "2025-10-03T19:30:44.798Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IUpdateCustomerCommand.cs",
-              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Commands\\UpdateCustomer\\IUpdateCustomerCommand.cs",
-              "RelativeDocumentMoniker": "src\\472.Booking.Application\\DataBase\\Customer\\Commands\\UpdateCustomer\\IUpdateCustomerCommand.cs",
-              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Customer\\Commands\\UpdateCustomer\\IUpdateCustomerCommand.cs",
-              "RelativeToolTip": "src\\472.Booking.Application\\DataBase\\Customer\\Commands\\UpdateCustomer\\IUpdateCustomerCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "IGetBookingByTypeQuery.cs",
+              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Bookings\\Queries\\GetBookingByType\\IGetBookingByTypeQuery.cs",
+              "RelativeDocumentMoniker": "src\\472.Booking.Application\\DataBase\\Bookings\\Queries\\GetBookingByType\\IGetBookingByTypeQuery.cs",
+              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Bookings\\Queries\\GetBookingByType\\IGetBookingByTypeQuery.cs",
+              "RelativeToolTip": "src\\472.Booking.Application\\DataBase\\Bookings\\Queries\\GetBookingByType\\IGetBookingByTypeQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T18:24:40.014Z",
+              "WhenOpened": "2025-10-03T19:23:21.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGetBookingDocumentNumberQuery.cs",
+              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Bookings\\Queries\\GetBookingDocumentNumber\\IGetBookingDocumentNumberQuery.cs",
+              "RelativeDocumentMoniker": "src\\472.Booking.Application\\DataBase\\Bookings\\Queries\\GetBookingDocumentNumber\\IGetBookingDocumentNumberQuery.cs",
+              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Bookings\\Queries\\GetBookingDocumentNumber\\IGetBookingDocumentNumberQuery.cs",
+              "RelativeToolTip": "src\\472.Booking.Application\\DataBase\\Bookings\\Queries\\GetBookingDocumentNumber\\IGetBookingDocumentNumberQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T19:21:56.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGetAllBookingsQuery.cs",
+              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Bookings\\Queries\\GetAllBookings\\IGetAllBookingsQuery.cs",
+              "RelativeDocumentMoniker": "src\\472.Booking.Application\\DataBase\\Bookings\\Queries\\GetAllBookings\\IGetAllBookingsQuery.cs",
+              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Bookings\\Queries\\GetAllBookings\\IGetAllBookingsQuery.cs",
+              "RelativeToolTip": "src\\472.Booking.Application\\DataBase\\Bookings\\Queries\\GetAllBookings\\IGetAllBookingsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T19:20:57.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "DepencyInjectionService.cs",
-              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DepencyInjectionService.cs",
-              "RelativeDocumentMoniker": "src\\472.Booking.Application\\DepencyInjectionService.cs",
-              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DepencyInjectionService.cs",
-              "RelativeToolTip": "src\\472.Booking.Application\\DepencyInjectionService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAAC0AAABJAAAAAAAAAA==",
+              "Title": "CreateBookingModel.cs",
+              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Bookings\\Commands\\CreateBooking\\CreateBookingModel.cs",
+              "RelativeDocumentMoniker": "src\\472.Booking.Application\\DataBase\\Bookings\\Commands\\CreateBooking\\CreateBookingModel.cs",
+              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Application\\DataBase\\Bookings\\Commands\\CreateBooking\\CreateBookingModel.cs",
+              "RelativeToolTip": "src\\472.Booking.Application\\DataBase\\Bookings\\Commands\\CreateBooking\\CreateBookingModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T18:24:30.078Z",
+              "WhenOpened": "2025-10-03T19:05:02.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingType.cs",
+              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Domain\\Enums\\BookingType.cs",
+              "RelativeDocumentMoniker": "src\\472.Booking.Domain\\Enums\\BookingType.cs",
+              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.Domain\\Enums\\BookingType.cs",
+              "RelativeToolTip": "src\\472.Booking.Domain\\Enums\\BookingType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T19:06:56.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\472.Booking.API\\Program.cs",
+              "ToolTip": "D:\\Aplicaciones\\CUN4\\CursoArqLimpia\\472.Booking\\src\\472.Booking.API\\Program.cs",
+              "RelativeToolTip": "src\\472.Booking.API\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAewDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T19:02:52.195Z",
               "EditorCaption": ""
             }
           ]
